@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Macy\'s App</string>
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="share">Share</string>
+    <string name="scanning">"Scanning: "</string>
+    <string name="results">Please wait till the Results are returned.</string>
+</resources>

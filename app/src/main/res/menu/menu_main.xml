@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.chaitanya.macysapp.MainActivity">
+
+    <item
+        android:id="@+id/btn_share"
+        android:title="@string/share"
+        android:icon="@android:drawable/star_big_on"
+        app:showAsAction="always"/>
+</menu>
